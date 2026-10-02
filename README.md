@@ -20,9 +20,8 @@ Tech Stack
 - Tools & Environments: Jupyter Notebook, LaTeX, Git, MS Excel, AutoCAD, Bluebeam
 
 Featured Projects
-* 📈 **[Financial-Forum-Scraper]** — Automated scraper bypassing anti-bot systems to extract sentiment data from investment forums.
-* 🌍 **[ESG-Corporate-Analyzer]** — Scripts for extracting, systematizing, and comparing ESG sustainability metrics from annual corporate reports.
-* 📐 **[Spatial-Metrics-Extractor]** — Python toolkit for calculating areas, perimeters, and volumes based on coordinate arrays extracted from multi-layered CAD blueprints.
+https://github.com/p-komissarov/RuStore-MVP - A functional Minimum Viable Product (MVP) of an alternative app store built natively in Kotlin, featuring custom UI/UX and robust application architecture.
+https://github.com/rotweinur/Reddit-Scraper — Automated scraper bypassing anti-bot systems to extract sentiment data from investment forums.
 
 How to reach me:
 - Email: sonyagreshnova@gmail.com
